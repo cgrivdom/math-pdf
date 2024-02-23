@@ -1,7 +1,5 @@
 # Math PDF
 
-<img src="https://socialify.git.ci/cgrd1/math-pdf/image?font=Inter&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Plus&amp;theme=Light" alt="project-image">
-
 ## Description:
 **Math PDF** is a python program that generates a PDF file with math problems to solve.
 
